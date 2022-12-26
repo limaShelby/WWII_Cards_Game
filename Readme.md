@@ -74,6 +74,7 @@ Las acciones disponibles son las siguientes:
 - `DecreaseDefense`: Disminuye la defensa del selector
 - `IncreaseHQ`: Incrementa el HQ del dueño de la carta
 - `IncreaseCredits`: Incrementa los créditos del dueño de la carta
+
 Las acciones *IncreaseHQ* y *IncreaseCredits* no van seguidas de un selector, sino que directamente se les asigna un *Valor*.
 
 ### Selector
