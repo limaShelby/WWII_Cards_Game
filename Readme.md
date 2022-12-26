@@ -5,7 +5,7 @@
 Dirígase a la carpeta del proyecto, si su sistema operativo es Linux ejecute en la terminal:
 
 ```bash
-make dev
+> make dev
 ```
 
 , si su sistema operativo es Windows ejecute en la terminal:
