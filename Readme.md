@@ -35,7 +35,7 @@ Existen dos tipos de cartas, las unidades y las órdenes, ambas presentan como c
 Cada jugador cuenta con un campo donde pueden desplegarse un máximo de 5 unidades
 
 ### Mano
-Cada jugador cuenta con una mano de 6 cartas al comienzo del partida y recibe 2 cartas a medida que empiece una nueva ronda (hasta que se acaben las cartas del deck).
+Cada jugador cuenta con una mano de 6 cartas al comienzo de la partida y recibe 2 cartas a medida que empiece una nueva ronda (hasta que se acaben las cartas del deck).
 
 ### Créditos
 Para desplegar una unidad en el campo, realizar un ataque con esta, ejecutar la orden que posee o ejecutar una orden(carta) de la mano, es necesario pagar el costo de la carta. Este costo es sustraído de los *créditos* de cada jugador, y por supuesto, si los créditos no son suficientes no podrá realizarse dicha acción.
