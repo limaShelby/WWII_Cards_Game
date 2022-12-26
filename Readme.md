@@ -11,8 +11,8 @@ make dev
 , si su sistema operativo es Windows ejecute en la terminal:
 
 ```bash
-cd ConsoleUI
-dotnet run ConsoleUI
+> cd ConsoleUI
+> dotnet run ConsoleUI
 ```
 
 ## Guía
