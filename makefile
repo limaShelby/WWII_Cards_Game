@@ -4,4 +4,4 @@ build:
 
 .PHONY: dev
 dev:
-	dotnet run --project WWII_Cards_Game
+	dotnet run --project ConsoleUI
