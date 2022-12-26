@@ -1,0 +1,8 @@
+{
+    "Name": "Wolverine",
+    "Cost": 4,
+    "Damage": 80,
+    "Defense": 45,
+    "Order": "IncreaseDamage (Self) By 50;",
+    "Description": "Increases its own damage by 50"
+}

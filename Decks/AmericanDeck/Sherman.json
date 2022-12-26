@@ -1,0 +1,8 @@
+{
+    "Name": "ShermanM4",
+    "Cost": 5,
+    "Damage": 100,
+    "Defense": 60,
+    "Order": "IncreaseCredits By 30; IncreaseDefense (Self) By 100;",
+    "Description": "Increases credits by 30 and increases its own defense by 100"
+}

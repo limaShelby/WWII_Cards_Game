@@ -1,0 +1,8 @@
+{
+    "Name": "Tiger II",
+    "Cost": 6,
+    "Damage": 150,
+    "Defense": 80,
+    "Order": "DecreaseDamage (OpponentMax) By 50;",
+    "Description": "Decreases OpponentMax damage by 50"
+}

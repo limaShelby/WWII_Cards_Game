@@ -1,0 +1,6 @@
+{
+    "Name": "Hunger",
+    "Cost": 4,
+    "Order": "DecreaseDamage (OwnerMax) By 100; IncreaseCredits By 20;",
+    "Description": "Decreases OwnerMax damage by 100 and increases credits by 20"
+}

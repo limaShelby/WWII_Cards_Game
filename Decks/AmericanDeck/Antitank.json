@@ -1,0 +1,8 @@
+{
+    "Name": "Antitank",
+    "Cost": 3,
+    "Damage": 55,
+    "Defense": 20,
+    "Order": "DecreaseDefense (OpponentMax) By 50;",
+    "Description": "Decreases OpponentMax defense by 50"
+}

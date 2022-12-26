@@ -1,0 +1,6 @@
+{
+    "Name": "German Shield",
+    "Cost": 6,
+    "Order": "IncreaseDefense (OwnerMax) By 100; IncreaseDefense (OwnerMin) By 100;",
+    "Description": "Increases OwnerMax defense by 100 and increases OwnerMin defense by 100"
+}

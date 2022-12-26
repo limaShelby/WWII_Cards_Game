@@ -1,0 +1,6 @@
+{
+    "Name": "Blitz",
+    "Cost": 5,
+    "Order": "DecreaseDefense (OpponentMax) By 60; IncreaseDamage (OwnerMin) By 60;",
+    "Description": "Decreases OpponentMax defense by 60 and increases OwnerMin damage by 60 "
+}

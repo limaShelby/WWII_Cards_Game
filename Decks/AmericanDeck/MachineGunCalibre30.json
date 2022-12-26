@@ -1,0 +1,8 @@
+{
+    "Name": "MachineGunCalibre30",
+    "Cost": 2,
+    "Damage": 45,
+    "Defense": 8,
+    "Order": "DecreaseDamage (OpponentMax) By 40;",
+    "Description": "Decreases OpponentMax damage by 40"
+}

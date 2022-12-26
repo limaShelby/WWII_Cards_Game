@@ -1,0 +1,6 @@
+{
+    "Name": "Mut",
+    "Cost": 3,
+    "Order": "IncreaseDefense (OwnerMax) By 40; IncreaseDefense (OwnerMin) By 40;",
+    "Description": "Increases OwnerMax defense by 40 and increases OwnerMin defense by 40"
+}

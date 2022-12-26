@@ -1,0 +1,6 @@
+{
+    "Name": "BloodFist",
+    "Cost": 5,
+    "Order": "DecreaseDefense (OpponentMax) By 70;",
+    "Description": "Decreases OpponentMax defense by 70"
+}

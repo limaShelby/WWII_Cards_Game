@@ -1,0 +1,6 @@
+{
+    "Name": "Heil",
+    "Cost": 2,
+    "Order": "IncreaseHQ By 20;",
+    "Description": "Increases HQ by 20"
+}

@@ -1,0 +1,8 @@
+{
+    "Name": "Pershing",
+    "Cost": 6,
+    "Damage": 150,
+    "Defense": 80,
+    "Order": "DecreaseDefense (OpponentMax) By 50;",
+    "Description": "Decreases OpponentMax defense by 50"
+}

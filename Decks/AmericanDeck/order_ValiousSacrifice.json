@@ -1,0 +1,6 @@
+{
+    "Name": "Valious Sacrifice",
+    "Cost": 5,
+    "Order": "IncreaseHQ By 50; DecreaseDefense (OwnerMax) By 70;",
+    "Description": "Increases HQ by 50 and decreases OwnerMax defense by 70"
+}

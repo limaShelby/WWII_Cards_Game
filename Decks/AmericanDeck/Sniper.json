@@ -1,0 +1,8 @@
+{
+    "Name": "Sniper",
+    "Cost": 2,
+    "Damage": 35,
+    "Defense": 5,
+    "Order": "DecreaseDefense (OpponentMin) By 50;",
+    "Description": "Decreases OpponentMin defense by 50"
+}

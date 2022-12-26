@@ -1,0 +1,6 @@
+{
+    "Name": "Curse",
+    "Cost": 3,
+    "Order": "DecreaseDamage (OpponentMax) By 40; DecreaseDamage (OpponentMin) By 40;",
+    "Description": "Decreases OpponentMax damage by 40 and decreases OpponentMin damage by 40"
+}

@@ -1,0 +1,6 @@
+{
+    "Name": "Rage",
+    "Cost": 3,
+    "Order": "IncreaseDamage (OwnerMax) By 50; IncreaseDamage (OwnerMin) By 50;",
+    "Description": "Increases OwnerMax damage by 50 and increases OwnerMin damage by 50"
+}

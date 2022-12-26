@@ -1,0 +1,8 @@
+{
+    "Name": "Sapper",
+    "Cost": 1,
+    "Damage": 15,
+    "Defense": 5,
+    "Order": "IncreaseCredits By 30; IncreaseHQ By 30;",
+    "Description": "Increases credits by 30 and increases HQ by 30"
+}

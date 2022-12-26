@@ -1,0 +1,8 @@
+{
+    "Name": "SS Troopers",
+    "Cost": 2,
+    "Damage": 30,
+    "Defense": 10,
+    "Order": "IncreaseDefense (OwnerMax) By 100;",
+    "Description": "Increases OwnerMax defense by 100"
+}

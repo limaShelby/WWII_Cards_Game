@@ -1,0 +1,8 @@
+{
+    "Name": "PanzerIV",
+    "Cost": 5,
+    "Damage": 100,
+    "Defense": 60,
+    "Order": "IncreaseHQ By 30; IncreaseDamage (Self) By 100;",
+    "Description": "Increases HQ by 30 and increases its own damage by 100"
+}

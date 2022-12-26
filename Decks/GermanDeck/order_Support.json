@@ -1,0 +1,6 @@
+{
+    "Name": "Support",
+    "Cost": 7,
+    "Order": "IncreaseCredits By 40;",
+    "Description": "Increases credits by 40"
+}

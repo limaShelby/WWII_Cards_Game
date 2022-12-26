@@ -1,0 +1,8 @@
+{
+    "Name": "Machine Gun MG42",
+    "Cost": 2,
+    "Damage": 45,
+    "Defense": 8,
+    "Order": "DecreaseDefense (OpponentMax) By 40;",
+    "Description": "Decreases OpponentMax defense by 40"
+}

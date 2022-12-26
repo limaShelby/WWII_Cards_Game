@@ -1,0 +1,8 @@
+{
+    "Name": "Stug IV",
+    "Cost": 4,
+    "Damage": 80,
+    "Defense": 45,
+    "Order": "IncreaseDefense (Self) By 50;",
+    "Description": "Increases its own defense by 50"
+}
