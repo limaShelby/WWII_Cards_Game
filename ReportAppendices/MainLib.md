@@ -49,7 +49,7 @@ Las clases que forman parte de *diseño de jugadores* son las encargadas de brin
 `UserPlayer` es la clase concreta que representa a un *usuario*. Hereda, por supuesto, de `Player` y su contenido es la implementación del método `Play()` de acuerdo a las posibilidades y opciones del usuario. Para conocer a `UserPlayer` a fondo siga el siguiente enlace: ["UserPlayer"](../MainLib/UserPlayer.cs)
 
 ### AI_Player
-`AI_Player` es la clase concreta que representa a un *bot*. Hereda, por supuesto, de `Player` y su contenido es la implementación del método `Play()` siguiendo una determinada estrategia. Para conocer a `AI_Player` a fondo siga el siguiente enlace: ["UserPlayer"](../MainLib/AI_Player.cs)
+`AI_Player` es la clase concreta que representa a un *bot*. Hereda, por supuesto, de `Player` y su contenido es la implementación del método `Play()` siguiendo una determinada estrategia. Para conocer a `AI_Player` a fondo siga el siguiente enlace: ["AI_Player"](../MainLib/AI_Player.cs)
 
 ## Auxiliares
 Las clases auxiliares no representan estructuras necesarias *per se* en el juego, pero son utilizadas para mejorar la dinámica e interactividad de la aplicación.
