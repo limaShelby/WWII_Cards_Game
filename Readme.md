@@ -11,7 +11,8 @@ make dev
 , si su sistema operativo es Windows ejecute en la terminal:
 
 ```bash
-dotnet run --project WWII_Cards_Game
+cd ConsoleUI
+dotnet run ConsoleUI
 ```
 
 ## Guía
